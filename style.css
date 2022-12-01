@@ -66,3 +66,7 @@ body{
 #landing[data-activeIndex='1'] > #landing-picture {
     background-position: 0% 100%;
 }
+
+#page-about-me {
+    display: block;
+}
