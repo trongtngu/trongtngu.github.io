@@ -68,5 +68,6 @@ body{
 }
 
 #page-about-me {
-    display: block;
+    display: none;
+    color:white;
 }

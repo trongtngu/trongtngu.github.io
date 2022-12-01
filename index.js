@@ -7,3 +7,7 @@ for (let i = 0; i < arr.length; i++) {
         landing.setAttribute("data-activeIndex", i)
     })
 }
+
+const aboutPage = document.getElementById('page-about-me');
+// 01/12/2022:
+// Up to making a link send you to another page

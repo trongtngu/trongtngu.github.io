@@ -1,0 +1,1 @@
+const aboutPage = document.getElementById('page-about-me');
