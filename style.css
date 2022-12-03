@@ -19,10 +19,10 @@ body{
 }
 
 #details {
-    margin-left: 6.2vw;
+    margin-left: 5.5vw;
     position:relative;
     z-index: 2;
-    max-width: 6rem;
+    max-width: 11rem;
     white-space: nowrap;
 }
 
